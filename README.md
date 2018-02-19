@@ -1,7 +1,12 @@
 # lavp
 web load test tools (web 压力测试工具)
 
+
+
 ```
+go get -u github.com/LavGo/lavp
+go install github.com/LavGo/lavp
+
 Usage of lavp:
   -C string
     	The content-type of http
